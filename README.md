@@ -1,3 +1,4 @@
+![logo](https://github.com/AditiChowdhury16/AditiChowdhury16/blob/main/_Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Aditi Chowdhury</h1>
 <h3 align="center">✨ A Passionate Frontend Developer from India ✨</h3>
 
