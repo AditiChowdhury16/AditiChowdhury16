@@ -13,7 +13,7 @@
 
 - 📫 Email Id **aditichowdhuryfbg@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing](https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing](https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Creative**
 
