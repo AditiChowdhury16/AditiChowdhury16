@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditichowdhury16&label=Profile%20views&color=0e75b6&style=flat" alt="aditichowdhury16" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET,ADO.NET**
+- 🌱 I’m currently learning: **ASP.NET,ADO.NET**
 
 - 👨‍💻 Portfolio [https://githubbox.com/AditiChowdhury16/Portfolio](https://githubbox.com/AditiChowdhury16/Portfolio)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Canva,Figma,PowerBI.**
+- 💬 Ask me about: **HTML,CSS,Javascript,Canva,Figma,PowerBI.**
 
 - 📫 Email Id **aditichowdhuryfbg@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing](https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing)
 
-- ⚡ Fun fact **I'm Creative**
+- ⚡**I'm Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
