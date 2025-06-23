@@ -2,7 +2,7 @@
 
 - 🔭 Hey I'm Aditi Chowdhury
 - 🌱 I’m currently a Final Year Student at KIIT University
-- 👯 I’m looking to collaborate on projects
+- 👯 Currently working in Bulls eye outsourcing as an IT Intern.
 - 💬 creative and Aspiring 
 - 📫 How to reach me: 
 [![LinkedIn](www.linkedin.com/in/aditi-chowdhury1612)
