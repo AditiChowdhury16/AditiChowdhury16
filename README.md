@@ -16,7 +16,6 @@
 
 - 🌱 I’m currently learning **ASP.NET, ADO.NET**
 - 🧰 I work with **HTML, CSS, JavaScript, Canva, Figma, Power BI**
-- 👨‍💻 Check out my [**Portfolio**](https://githubbox.com/AditiChowdhury16/Portfolio)
 - 📄 View my [**Resume**](https://drive.google.com/file/d/1AGLZFiQYgba1cqE7CuFPnQSav9BevfBg/view?usp=sharing)
 - 📫 Email me at **aditichowdhuryfbg@gmail.com**
 - ⚡ Fun Fact: *I'm creative and always excited to learn new tools!*
