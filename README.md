@@ -3,7 +3,8 @@
 <h3 align="center">✨ A Passionate Frontend Developer from India ✨</h3>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" width="400"/>
+<!--   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" width="400"/> -->
+  <img src="https://i.imgur.com/2ykElrp.gif" width="400"/>
 </p>
 
 <p align="center">
