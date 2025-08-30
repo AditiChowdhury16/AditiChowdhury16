@@ -1,6 +1,6 @@
 ![logo](https://github.com/AditiChowdhury16/AditiChowdhury16/blob/main/_Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Aditi Chowdhury</h1>
-<h3 align="center">✨ A Passionate Frontend Developer from India ✨</h3>
+<h3 align="center">✨ A Passionate Final year Developer✨</h3>
 
 <p align="center">
 <!--   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" width="400"/> -->
